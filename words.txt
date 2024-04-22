@@ -1,0 +1,5 @@
+continent
+dictionary
+restaurant
+subway
+queen
