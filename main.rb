@@ -16,7 +16,9 @@ end
 game = Game.new
 input = ""
 
-puts game.choice
+puts "###############################"
+puts "########### HANGMAN ###########\n"
+puts "###############################"
 
 loop do
   if game.check_gameover
